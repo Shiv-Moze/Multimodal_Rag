@@ -18,19 +18,19 @@ Install Dependencies:
 
 Here is requirement,txt file:
 
-#Install these required dependencies to run this notebook
-# ! pip install "unstructured[all-docs]" pillow pydantic lxml pillow matplotlib
-# !sudo apt-get update
-# !sudo apt-get install poppler-utils
-# !sudo apt-get install libleptonica-dev tesseract-ocr libtesseract-dev python3-pil tesseract-ocr-eng tesseract-ocr-script-latn
-# !pip install unstructured-pytesseract
-# !pip install tesseract-ocr
-# !pip install python-dotenv==1.0.0
-# !pip install requests
-# !pip install sseclient-py==1.8.0
-# !pip install pdf2image==1.17.0
-# !pip install langchain-sambanova
-# !pip install openai
+####Install these required dependencies to run this notebook
+ '! pip install "unstructured[all-docs]" pillow pydantic lxml pillow matplotlib
+ !sudo apt-get update
+ !sudo apt-get install poppler-utils
+ !sudo apt-get install libleptonica-dev tesseract-ocr libtesseract-dev python3-pil tesseract-ocr-eng tesseract-ocr-script-latn
+ !pip install unstructured-pytesseract
+ !pip install tesseract-ocr
+ !pip install python-dotenv==1.0.0
+!pip install requests
+ !pip install sseclient-py==1.8.0
+ !pip install pdf2image==1.17.0
+ !pip install langchain-sambanova
+ !pip install openai'
 
 
 
